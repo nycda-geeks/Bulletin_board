@@ -9,7 +9,7 @@ app.use( bodyParser.urlencoded({
 })); 
 
 
-var connectionString = 'postgres://' + process.env.POSTGRES_USER + '@localhost/sarithbreedijk';
+var connectionString = 'postgres://' + process.env.POSTGRES_USER + '@localhost/bulletinboard';
 // var connectionString ='postgres://sarithbreedijk@localhost/sarithbreedijk';
 console.log(connectionString);
 
