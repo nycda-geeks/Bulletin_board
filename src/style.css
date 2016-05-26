@@ -1,0 +1,16 @@
+#nav {
+    padding: 10px;
+    background-color: aqua;
+    margin-bottom: 25px;
+    font-family: calibri;
+}
+#nav a {
+    padding: 0 20px;
+}
+body {
+	font-family: calibri;
+	color: hotpink;
+	font-style: bold;
+	text-align: center;
+
+}
